@@ -1,0 +1,432 @@
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.AssemblyReference.cache
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.AssemblyInfoInputs.cache
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.AssemblyInfo.cs
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.CoreCompileInputs.cache
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\appsettings.Development.json
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\appsettings.json
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.exe
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.deps.json
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.runtimeconfig.json
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.pdb
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Azure.Core.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Dapper.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Humanizer.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.Lc_userapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.build.Lc_userapi.props
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lc_userapi.props
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lc_userapi.props
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\scopedcss\bundle\Lc_userapi.styles.css
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.Up2Date
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.dll
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\refint\Lc_userapi.dll
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.pdb
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.genruntimeconfig.cache
+D:\Applications\Lc_userapi\Lc_userapi\obj\Debug\net8.0\ref\Lc_userapi.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\appsettings.Development.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\appsettings.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.exe
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.deps.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.runtimeconfig.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.pdb
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Azure.Core.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Azure.Identity.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Dapper.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Humanizer.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.CodeDom.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Text.Json.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.AssemblyReference.cache
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.AssemblyInfoInputs.cache
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.AssemblyInfo.cs
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.CoreCompileInputs.cache
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.MvcApplicationPartsAssemblyInfo.cs
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.MvcApplicationPartsAssemblyInfo.cache
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.build.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.development.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.Lc_userapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.build.Lc_userapi.props
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lc_userapi.props
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lc_userapi.props
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\scopedcss\bundle\Lc_userapi.styles.css
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.Up2Date
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\refint\Lc_userapi.dll
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.pdb
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.genruntimeconfig.cache
+D:\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\ref\Lc_userapi.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\appsettings.Development.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\appsettings.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.exe
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.deps.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.runtimeconfig.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Lc_userapi.pdb
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Azure.Core.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Azure.Identity.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Dapper.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Humanizer.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.CodeDom.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Text.Json.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.AssemblyReference.cache
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.AssemblyInfoInputs.cache
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.AssemblyInfo.cs
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.CoreCompileInputs.cache
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.MvcApplicationPartsAssemblyInfo.cs
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.MvcApplicationPartsAssemblyInfo.cache
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.build.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.development.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.Lc_userapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.build.Lc_userapi.props
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lc_userapi.props
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lc_userapi.props
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\scopedcss\bundle\Lc_userapi.styles.css
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.csproj.Up2Date
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\refint\Lc_userapi.dll
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.pdb
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\Lc_userapi.genruntimeconfig.cache
+D:\BackendProject\L_C _prj\Lc_userapi\Lc_userapi\obj\Debug\net8.0\ref\Lc_userapi.dll

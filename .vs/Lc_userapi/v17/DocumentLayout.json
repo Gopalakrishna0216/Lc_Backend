@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\repositories\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\repositories\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\repositories\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\repositories\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\lc_userapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\lc_userapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|d:\\backendproject\\l_c _prj\\lc_userapi\\lc_userapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AFAE08-4419-49A0-85BA-AE612594412A}|Lc_userapi\\Lc_userapi.csproj|solutionrelative:lc_userapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppdbcontextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Migrations\\AppdbcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Migrations\\AppdbcontextModelSnapshot.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Migrations\\AppdbcontextModelSnapshot.cs",
+              "RelativeToolTip": "Lc_userapi\\Migrations\\AppdbcontextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:20:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\appsettings.json",
+              "RelativeDocumentMoniker": "Lc_userapi\\appsettings.json",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\appsettings.json",
+              "RelativeToolTip": "Lc_userapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T04:22:28.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Program.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Program.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Program.cs",
+              "RelativeToolTip": "Lc_userapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:22:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lc_userapi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:34:39.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Lc_userapi\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:54:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRespository.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Repositories\\IUserRespository.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Repositories\\IUserRespository.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Repositories\\IUserRespository.cs",
+              "RelativeToolTip": "Lc_userapi\\Repositories\\IUserRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:43:27.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baseclass.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Repositories\\Baseclass.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Repositories\\Baseclass.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Repositories\\Baseclass.cs",
+              "RelativeToolTip": "Lc_userapi\\Repositories\\Baseclass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:23:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appdbcontext.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Data\\Appdbcontext.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Data\\Appdbcontext.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Data\\Appdbcontext.cs",
+              "RelativeToolTip": "Lc_userapi\\Data\\Appdbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:14:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lc_userapi.csproj",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Lc_userapi.csproj",
+              "RelativeDocumentMoniker": "Lc_userapi\\Lc_userapi.csproj",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Lc_userapi.csproj",
+              "RelativeToolTip": "Lc_userapi\\Lc_userapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T12:13:53.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userClass.cs",
+              "DocumentMoniker": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Models\\userClass.cs",
+              "RelativeDocumentMoniker": "Lc_userapi\\Models\\userClass.cs",
+              "ToolTip": "D:\\BackendProject\\L_C _prj\\Lc_userapi\\Lc_userapi\\Models\\userClass.cs",
+              "RelativeToolTip": "Lc_userapi\\Models\\userClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:08:37.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
